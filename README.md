@@ -1,6 +1,6 @@
 # Test Automation Framework POC to test Swag Labs
 
-This project shows a proof of concept test automation solution to test the [Swag Labs]([https://www.google.com](https://www.saucedemo.com)) web application.
+This project shows a proof of concept test automation solution to test the [Swag Labs](https://www.google.com](https://www.saucedemo.com)) web application.
 
 ## Key features
 
