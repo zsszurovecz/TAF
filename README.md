@@ -21,3 +21,16 @@ This project shows a proof of concept test automation solution to test the [Swag
 
 After you clone the repository and open it in IntelliJ, you can execute the tests in the usual way. 
 
+## Planned improvements for the future
+
+* Add test groups for test cases
+* Improve test coverage
+* Add unit tests for the framework
+* Add reporting layer
+* Introduce logger instead of console log
+* Improve test data storing (DB or CSV) and handling
+* Move environment variables to config files
+* Parallel test execution
+* Dockerization
+
+
