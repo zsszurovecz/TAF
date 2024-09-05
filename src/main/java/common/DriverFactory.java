@@ -45,6 +45,7 @@ public class DriverFactory {
     }
 
     protected boolean compareLatestSnapshot() {
+        takeScreenshot();
         return ScreenshotUtils.compareLatestImages();
     }
 }
