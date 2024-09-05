@@ -21,7 +21,7 @@ This project shows a proof of concept test automation solution to test the [Swag
 
 After you clone the repository and open it in IntelliJ, you can execute the tests in the usual way. 
 
-## Planned improvements for the future
+## Working on it
 
 * Add test groups for test cases
 * Improve test coverage
