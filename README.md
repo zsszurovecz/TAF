@@ -29,7 +29,8 @@ After you clone the repository and open it in IntelliJ, you can execute the test
 * Add reporting layer
 * Introduce logger instead of console log
 * Improve test data storing (DB or CSV) and handling
-* Improve visual testing with maskeration and highlight the differences* Move environment variables to config files
+* Improve visual testing with masking and highlight the differences
+* * Move environment variables to config files
 * Parallel test execution
 * Dockerization
 
